@@ -15,7 +15,7 @@ decision-making during disaster response.
 - Download and process road networks using **OSMnx**
 - Extract nodes, edges, and distances from OpenStreetMap data
 - Integrate **Points of Interest (POIs)** relevant to disaster relief
-- Apply **Bayesian inference (PyMC)** to estimate disaster risk probabilities
+- Apply **Bayesian inference** to estimate disaster risk probabilities
 - Generate **risk-aware optimal routes** for relief operations
 - Identify and prioritize **high-risk zones** with statistical confidence
 - Interactive **Streamlit dashboard** with Folium maps
