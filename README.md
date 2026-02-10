@@ -84,7 +84,3 @@ AIDRoute/
 👤 Author
 Prema Rawat
 
-
-
-## 📁 Project Structure
-
